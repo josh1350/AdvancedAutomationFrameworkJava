@@ -5,9 +5,7 @@ import com.ea.framework.utilities.LogUtil;
 
 import java.sql.Connection;
 
-/**
- * Created by Karthik-PC on 11/23/2016.
- */
+
 public class Settings
 {
    //For Application Backend
