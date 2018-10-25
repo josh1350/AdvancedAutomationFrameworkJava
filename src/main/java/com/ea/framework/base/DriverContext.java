@@ -9,9 +9,7 @@ import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-/**
- * Created by Karthik-PC on 21/04/2018.
- */
+
 public class DriverContext {
 
     public static WebDriver Driver;
