@@ -5,9 +5,6 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.pagefactory.DefaultElementLocatorFactory;
 import java.lang.reflect.InvocationTargetException;
 
-/**
- * Created by Karthik-pc on 12/10/2016.
- */
 
 public class ControlFactory extends PageFactory {
 
