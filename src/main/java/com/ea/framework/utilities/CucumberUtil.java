@@ -5,9 +5,7 @@ import cucumber.api.DataTable;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Karthik-PC on 21/04/2018.
- */
+
 public class CucumberUtil {
 
 
