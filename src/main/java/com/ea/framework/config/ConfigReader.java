@@ -7,9 +7,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-/**
- * Created by Karthik-pc on 12/3/2016.
- */
+
 public class ConfigReader {
 
 
