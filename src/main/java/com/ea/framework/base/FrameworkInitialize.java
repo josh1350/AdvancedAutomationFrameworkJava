@@ -4,9 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-/**
- * Created by Karthik-PC on 11/23/2016.
- */
+
 public class FrameworkInitialize extends Base {
 
 
