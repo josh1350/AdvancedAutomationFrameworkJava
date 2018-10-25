@@ -12,9 +12,7 @@ import pages.HomePage;
 
 import static com.ea.framework.base.Base.CurrentPage;
 
-/**
- * Created by Karthik-pc on 21/4/2018.
- */
+
 public class EmployeeSteps  {
     @And("^I click employeeList link$")
     public void iClickEmployeeListLink() throws Throwable {
