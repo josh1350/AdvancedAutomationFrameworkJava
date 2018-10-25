@@ -12,9 +12,8 @@ import org.testng.annotations.Test;
 import java.util.Iterator;
 import java.util.List;
 
-/**
- * Created by Karthik-pc on 24/4/2018.
- */
+
+
 
 
 @CucumberOptions(features = {"src/test/java/features/"}, glue = {"steps"}, format = {"json:target/cucumber-json-report.json", "html:target/cucumber-report-html"})
