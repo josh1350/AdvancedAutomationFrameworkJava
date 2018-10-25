@@ -13,9 +13,7 @@ import pages.LoginPage;
 
 import java.util.List;
 
-/**
- * Created by Karthik-pc on 12/4/2018.
- */
+
 public class LoginSteps extends Base {
 
     @And("^I ensure application opened$")
