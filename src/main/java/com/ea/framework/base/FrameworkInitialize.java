@@ -28,6 +28,7 @@ public class FrameworkInitialize extends Base {
             }
             case IE:
             {
+                driver = new EdgeDriver();
                 break;
             }
         }
