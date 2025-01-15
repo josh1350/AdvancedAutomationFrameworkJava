@@ -6,9 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
-/**
- * Created by Karthik-pc on 12/6/2018.
- */
+
 public class CreateEmployeePage extends BasePage {
 
     @FindBy(how = How.ID, using = "Name")
